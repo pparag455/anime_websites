@@ -83,7 +83,7 @@ export default function LoginPage() {
           />
 
           <p className="text-center mt-6 text-gray-400">
-            Don't have an account?{' '}
+            Don&apos;t have an account?{' '}
             <Link href="/auth/signup" className="text-anime-primary hover:underline">
               Sign up here
             </Link>
